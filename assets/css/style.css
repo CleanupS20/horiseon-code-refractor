@@ -69,13 +69,17 @@ p {
     margin-left: 25px;
 }
 
-.content {
-    width: 75%;
-    display: inline-block;
+#content {
+    display: flex;
     margin-left: 20px;
 }
 
-.benefits {
+#main {
+    flex: 1;
+    width: 75%;1
+}
+
+#benefits {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -195,6 +199,6 @@ p {
     text-align: center;
 }
 
-.footer h2 {
+.footer h4 {
     font-size: 20px;
 }
