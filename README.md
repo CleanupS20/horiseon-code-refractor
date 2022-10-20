@@ -5,8 +5,7 @@ Horiseon Code Refractor
 Description
 Landing page for Horiseon Social Solutions
 
-Visuals
-![Uploading Horiseon.gif…]()
+Visuals![Horiseon](https://user-images.githubusercontent.com/115957611/197059127-7334b787-ad02-486f-8303-f1e6eee675c0.gif)
 
 Installation
 N/A
